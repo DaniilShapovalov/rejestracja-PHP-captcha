@@ -1,3 +1,5 @@
 # registration form
-regular login form with error checking and password hashing in md5
-http://testtesttesttest.infinityfreeapp.com/index.php
+PHP-based user registration and login system with MySQL database integration.
+ It allows users to register and log in with data validation and secure password handling.
+# PREVIEW 
+ http://infinityphp.42web.io/index.php
